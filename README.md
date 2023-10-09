@@ -58,7 +58,7 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-![App Screenshot](/demon.jpg)
+![App Screenshot](/demon.png)
 
 
 ## Author
